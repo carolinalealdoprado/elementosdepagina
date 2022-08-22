@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="css.css">
+
+    </head>
+
+    <h1> Codando </h1>
+        <ul class="nav">
+            <li> <a href="#início">Início</a></li>
+            <li> <a href="#início">Início</a></li>
+            <li> <a href="#sobre">Sobre</a></li>
+            <li> <a href="#clientes">Clientes</a></li>
+            <li> <a href="#contacto">Contacto</a></li>
+        </ul>
+</html>
